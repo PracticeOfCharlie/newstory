@@ -70,7 +70,7 @@ export const PROP_KINDS = {
   // dark shoulder bag with a few charms; attach to 'spine'
   bag({ color = '#1d1a22' }) {
     const g = new THREE.Group();
-    const body = new THREE.Mesh(new THREE.BoxGeometry(0.07, 0.24, 0.2), mat(color)); body.position.set(0.21, -0.12, 0.0); g.add(body);
+    const body = new THREE.Mesh(new THREE.BoxGeometry(0.07, 0.24, 0.2), mat(color)); body.position.set(0.24, -0.12, 0.0); g.add(body);
     const strap = new THREE.Mesh(new THREE.TubeGeometry(new THREE.CatmullRomCurve3([new THREE.Vector3(0.21, 0.0, 0.0), new THREE.Vector3(0.16, 0.31, 0.02), new THREE.Vector3(0.1, 0.34, 0.0)]), 8, 0.008, 3), mat('#121016')); g.add(strap);
     const cols = ['#e04a6a', '#f2d24a', '#7ac8f0', '#ffffff', '#b07ae0'];
     cols.forEach((c, i) => { const ch = new THREE.Mesh(new THREE.BoxGeometry(0.03, 0.03, 0.03), mat(c)); ch.position.set(0.25, -0.05 - i * 0.04, -0.06 + (i % 3) * 0.05); ch.rotation.set(i, i * 0.7, 0); g.add(ch); });

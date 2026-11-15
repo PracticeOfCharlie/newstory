@@ -5,7 +5,7 @@ import { drawText } from './text.js';
 let E = null;
 
 window.__boot = async ({ scene, width = 360, height = 640, fps = 30, args = {} }) => {
-  for (const f of ['12px Galmuri11B', '12px Galmuri11', '10px Galmuri9']) await document.fonts.load(f, '가A');
+  for (const f of ['12px Galmuri11B', '12px Galmuri11', '10px Galmuri9', '15px Galmuri14']) await document.fonts.load(f, '가A');
   E = createEngine({ width, height, fps, glCanvas: document.getElementById('gl'), outCanvas: document.getElementById('out') });
   E.args = args;
   const mod = await import(scene);

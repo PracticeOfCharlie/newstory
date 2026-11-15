@@ -7,6 +7,7 @@ export const FONTS = {
   bold: { family: 'Galmuri11B', size: 12 },
   regular: { family: 'Galmuri11', size: 12 },
   small: { family: 'Galmuri9', size: 10 },
+  large: { family: 'Galmuri14', size: 15 },
 };
 
 const cache = new Map();

@@ -328,7 +328,7 @@ export function buildCharacter(opts = {}) {
     a.position.set(side === 'L' ? -0.02 : 0.02, -0.075, 0.0);
     J['hand' + side].add(a); anchors['hand' + side] = a;
   }
-  anchors.head = J.head; anchors.spine = J.spine; anchors.hips = J.hips;
+  anchors.head = J.head; anchors.headModel = headModel; anchors.spine = J.spine; anchors.hips = J.hips;
 
   // sole markers for grounding
   const soles = [];
@@ -518,8 +518,9 @@ export function updateSkirt(skirt, legs) {
       const hor = Math.hypot(vx, vz);
       if (hor < 1e-4) continue;
       const align = (vx * dx + vz * dz) / hor;
-      const w = Math.min(1, Math.max(0, (align - 0.72) / 0.22));
+      let w = Math.min(1, Math.max(0, (align - 0.72) / 0.22));
       if (w <= 0) continue;
+      w = w * w;
       const req = Math.atan2(hor, -vy);
       const want = t0 + (req - t0) * w;
       if (want > t) t = want;
@@ -542,7 +543,7 @@ export function updateSkirt(skirt, legs) {
     const l = L[k] * r.s;
     const pl = r.pleat * pleat * r.s;
     // when the panel lies over a raised thigh, drape the part past the knee downwards
-    const lk = 0.42, drape = Math.min(1, Math.max(0, (t - 0.7) / 0.4));
+    const lk = 0.42 * Math.min(1, 0.75 / Math.max(0.3, Math.sin(t)) * 0.8 + 0.2), drape = Math.min(1, Math.max(0, (t - 0.45) / 0.4));
     const l1 = drape > 0 ? Math.min(l, lk + (1 - drape) * 1) : l, l2 = l - l1;
     const t2 = t + (0.3 - t) * drape;
     const out = Math.sin(t) * l1 + Math.sin(t2) * l2 + pl;
