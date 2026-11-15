@@ -1,0 +1,1 @@
+for v in F2 F4; do s=$(date +%s); .venv-wx/bin/python make_voice.py /home/user/kshorts/scripts/ep01_voice.txt --voice $v --speed 1.05 --out out/ep01_$v 2>&1 | tail -1; echo "$v wall $(( $(date +%s)-s ))s"; done

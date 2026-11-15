@@ -1,0 +1,940 @@
+{
+ "version": 1,
+ "voice": "supertonic-3:F2",
+ "speed": 1.05,
+ "sample_rate": 44100,
+ "duration": 60.856,
+ "words": [
+  {
+   "i": 0,
+   "text": "야,",
+   "start": 0.082,
+   "end": 0.205,
+   "sentence": 0
+  },
+  {
+   "i": 1,
+   "text": "잠깐.",
+   "start": 0.205,
+   "end": 0.954,
+   "sentence": 0
+  },
+  {
+   "i": 2,
+   "text": "그걸",
+   "start": 0.954,
+   "end": 1.158,
+   "sentence": 1
+  },
+  {
+   "i": 3,
+   "text": "그렇게",
+   "start": 1.158,
+   "end": 1.463,
+   "sentence": 1
+  },
+  {
+   "i": 4,
+   "text": "먹어?",
+   "start": 1.463,
+   "end": 2.11,
+   "sentence": 1
+  },
+  {
+   "i": 5,
+   "text": "앉아",
+   "start": 2.11,
+   "end": 2.586,
+   "sentence": 2
+  },
+  {
+   "i": 6,
+   "text": "봐.",
+   "start": 2.586,
+   "end": 3.071,
+   "sentence": 2
+  },
+  {
+   "i": 7,
+   "text": "제대로",
+   "start": 3.071,
+   "end": 3.353,
+   "sentence": 3
+  },
+  {
+   "i": 8,
+   "text": "알려",
+   "start": 3.353,
+   "end": 3.615,
+   "sentence": 3
+  },
+  {
+   "i": 9,
+   "text": "줄게.",
+   "start": 3.615,
+   "end": 4.339,
+   "sentence": 3
+  },
+  {
+   "i": 10,
+   "text": "일",
+   "start": 4.339,
+   "end": 4.503,
+   "sentence": 4
+  },
+  {
+   "i": 11,
+   "text": "교시,",
+   "start": 4.503,
+   "end": 4.891,
+   "sentence": 4
+  },
+  {
+   "i": 12,
+   "text": "쫀디기.",
+   "start": 4.891,
+   "end": 5.518,
+   "sentence": 4
+  },
+  {
+   "i": 13,
+   "text": "가로로",
+   "start": 5.518,
+   "end": 5.864,
+   "sentence": 5
+  },
+  {
+   "i": 14,
+   "text": "물면",
+   "start": 5.864,
+   "end": 6.128,
+   "sentence": 5
+  },
+  {
+   "i": 15,
+   "text": "하수야.",
+   "start": 6.128,
+   "end": 6.955,
+   "sentence": 5
+  },
+  {
+   "i": 16,
+   "text": "결대로",
+   "start": 6.955,
+   "end": 7.438,
+   "sentence": 6
+  },
+  {
+   "i": 17,
+   "text": "쭉",
+   "start": 7.438,
+   "end": 7.64,
+   "sentence": 6
+  },
+  {
+   "i": 18,
+   "text": "찢어서,",
+   "start": 7.64,
+   "end": 8.546,
+   "sentence": 6
+  },
+  {
+   "i": 19,
+   "text": "돌돌",
+   "start": 8.546,
+   "end": 8.852,
+   "sentence": 7
+  },
+  {
+   "i": 20,
+   "text": "말아서,",
+   "start": 8.852,
+   "end": 9.341,
+   "sentence": 7
+  },
+  {
+   "i": 21,
+   "text": "쏙.",
+   "start": 9.341,
+   "end": 9.763,
+   "sentence": 7
+  },
+  {
+   "i": 22,
+   "text": "집에서",
+   "start": 9.763,
+   "end": 10.044,
+   "sentence": 8
+  },
+  {
+   "i": 23,
+   "text": "살짝",
+   "start": 10.044,
+   "end": 10.367,
+   "sentence": 8
+  },
+  {
+   "i": 24,
+   "text": "구우면",
+   "start": 10.367,
+   "end": 10.668,
+   "sentence": 8
+  },
+  {
+   "i": 25,
+   "text": "더",
+   "start": 10.668,
+   "end": 10.789,
+   "sentence": 8
+  },
+  {
+   "i": 26,
+   "text": "맛있어.",
+   "start": 10.789,
+   "end": 11.693,
+   "sentence": 8
+  },
+  {
+   "i": 27,
+   "text": "봐,",
+   "start": 11.693,
+   "end": 11.874,
+   "sentence": 9
+  },
+  {
+   "i": 28,
+   "text": "야들야들해졌지?",
+   "start": 11.874,
+   "end": 12.978,
+   "sentence": 9
+  },
+  {
+   "i": 29,
+   "text": "근데",
+   "start": 12.978,
+   "end": 13.221,
+   "sentence": 10
+  },
+  {
+   "i": 30,
+   "text": "과자",
+   "start": 13.221,
+   "end": 13.485,
+   "sentence": 10
+  },
+  {
+   "i": 31,
+   "text": "자체엔",
+   "start": 13.485,
+   "end": 13.809,
+   "sentence": 10
+  },
+  {
+   "i": 32,
+   "text": "별맛이",
+   "start": 13.809,
+   "end": 14.195,
+   "sentence": 10
+  },
+  {
+   "i": 33,
+   "text": "없어.",
+   "start": 14.195,
+   "end": 14.94,
+   "sentence": 10
+  },
+  {
+   "i": 34,
+   "text": "겉에",
+   "start": 14.94,
+   "end": 15.262,
+   "sentence": 11
+  },
+  {
+   "i": 35,
+   "text": "묻은",
+   "start": 15.262,
+   "end": 15.523,
+   "sentence": 11
+  },
+  {
+   "i": 36,
+   "text": "설탕",
+   "start": 15.523,
+   "end": 15.884,
+   "sentence": 11
+  },
+  {
+   "i": 37,
+   "text": "맛으로",
+   "start": 15.884,
+   "end": 16.206,
+   "sentence": 11
+  },
+  {
+   "i": 38,
+   "text": "먹는",
+   "start": 16.206,
+   "end": 16.427,
+   "sentence": 11
+  },
+  {
+   "i": 39,
+   "text": "애들도",
+   "start": 16.427,
+   "end": 16.688,
+   "sentence": 11
+  },
+  {
+   "i": 40,
+   "text": "있었어.",
+   "start": 16.688,
+   "end": 17.572,
+   "sentence": 11
+  },
+  {
+   "i": 41,
+   "text": "이",
+   "start": 17.572,
+   "end": 17.715,
+   "sentence": 12
+  },
+  {
+   "i": 42,
+   "text": "교시,",
+   "start": 17.715,
+   "end": 17.979,
+   "sentence": 12
+  },
+  {
+   "i": 43,
+   "text": "아폴로.",
+   "start": 17.979,
+   "end": 18.828,
+   "sentence": 12
+  },
+  {
+   "i": 44,
+   "text": "앞니로",
+   "start": 18.828,
+   "end": 19.211,
+   "sentence": 13
+  },
+  {
+   "i": 45,
+   "text": "꾹",
+   "start": 19.211,
+   "end": 19.393,
+   "sentence": 13
+  },
+  {
+   "i": 46,
+   "text": "눌러서",
+   "start": 19.393,
+   "end": 19.696,
+   "sentence": 13
+  },
+  {
+   "i": 47,
+   "text": "짜",
+   "start": 19.696,
+   "end": 19.858,
+   "sentence": 13
+  },
+  {
+   "i": 48,
+   "text": "먹는",
+   "start": 19.858,
+   "end": 20.12,
+   "sentence": 13
+  },
+  {
+   "i": 49,
+   "text": "거야.",
+   "start": 20.12,
+   "end": 20.784,
+   "sentence": 13
+  },
+  {
+   "i": 50,
+   "text": "근데",
+   "start": 20.784,
+   "end": 20.987,
+   "sentence": 14
+  },
+  {
+   "i": 51,
+   "text": "가끔",
+   "start": 20.987,
+   "end": 21.272,
+   "sentence": 14
+  },
+  {
+   "i": 52,
+   "text": "있었다?",
+   "start": 21.272,
+   "end": 22.06,
+   "sentence": 14
+  },
+  {
+   "i": 53,
+   "text": "빨대째",
+   "start": 22.06,
+   "end": 22.524,
+   "sentence": 15
+  },
+  {
+   "i": 54,
+   "text": "쪽쪽",
+   "start": 22.524,
+   "end": 22.827,
+   "sentence": 15
+  },
+  {
+   "i": 55,
+   "text": "빨아",
+   "start": 22.827,
+   "end": 23.029,
+   "sentence": 15
+  },
+  {
+   "i": 56,
+   "text": "먹는",
+   "start": 23.029,
+   "end": 23.251,
+   "sentence": 15
+  },
+  {
+   "i": 57,
+   "text": "애.",
+   "start": 23.251,
+   "end": 23.816,
+   "sentence": 15
+  },
+  {
+   "i": 58,
+   "text": "나",
+   "start": 23.816,
+   "end": 24.121,
+   "sentence": 16
+  },
+  {
+   "i": 59,
+   "text": "아니야.",
+   "start": 24.121,
+   "end": 24.685,
+   "sentence": 16
+  },
+  {
+   "i": 60,
+   "text": "내가",
+   "start": 24.685,
+   "end": 24.907,
+   "sentence": 17
+  },
+  {
+   "i": 61,
+   "text": "지은",
+   "start": 24.907,
+   "end": 25.109,
+   "sentence": 17
+  },
+  {
+   "i": 62,
+   "text": "건데,",
+   "start": 25.109,
+   "end": 25.352,
+   "sentence": 17
+  },
+  {
+   "i": 63,
+   "text": "앞니파야,",
+   "start": 25.352,
+   "end": 26.1,
+   "sentence": 17
+  },
+  {
+   "i": 64,
+   "text": "쪽쪽파야?",
+   "start": 26.1,
+   "end": 27.107,
+   "sentence": 17
+  },
+  {
+   "i": 65,
+   "text": "삼",
+   "start": 27.107,
+   "end": 27.288,
+   "sentence": 18
+  },
+  {
+   "i": 66,
+   "text": "교시,",
+   "start": 27.288,
+   "end": 27.57,
+   "sentence": 18
+  },
+  {
+   "i": 67,
+   "text": "맥주사탕.",
+   "start": 27.57,
+   "end": 28.595,
+   "sentence": 18
+  },
+  {
+   "i": 68,
+   "text": "본명은",
+   "start": 28.595,
+   "end": 28.981,
+   "sentence": 19
+  },
+  {
+   "i": 69,
+   "text": "타리토",
+   "start": 28.981,
+   "end": 29.367,
+   "sentence": 19
+  },
+  {
+   "i": 70,
+   "text": "캔디래.",
+   "start": 29.367,
+   "end": 30.216,
+   "sentence": 19
+  },
+  {
+   "i": 71,
+   "text": "몰랐지?",
+   "start": 30.216,
+   "end": 30.943,
+   "sentence": 20
+  },
+  {
+   "i": 72,
+   "text": "이거",
+   "start": 30.943,
+   "end": 31.166,
+   "sentence": 21
+  },
+  {
+   "i": 73,
+   "text": "친구들끼리",
+   "start": 31.166,
+   "end": 31.713,
+   "sentence": 21
+  },
+  {
+   "i": 74,
+   "text": "편이",
+   "start": 31.713,
+   "end": 31.936,
+   "sentence": 21
+  },
+  {
+   "i": 75,
+   "text": "갈렸대.",
+   "start": 31.936,
+   "end": 32.886,
+   "sentence": 21
+  },
+  {
+   "i": 76,
+   "text": "맥주파랑,",
+   "start": 32.886,
+   "end": 33.457,
+   "sentence": 22
+  },
+  {
+   "i": 77,
+   "text": "페인트파.",
+   "start": 33.457,
+   "end": 34.388,
+   "sentence": 22
+  },
+  {
+   "i": 78,
+   "text": "페인트는",
+   "start": 34.388,
+   "end": 34.81,
+   "sentence": 23
+  },
+  {
+   "i": 79,
+   "text": "혀가",
+   "start": 34.81,
+   "end": 35.071,
+   "sentence": 23
+  },
+  {
+   "i": 80,
+   "text": "파래져서,",
+   "start": 35.071,
+   "end": 35.513,
+   "sentence": 23
+  },
+  {
+   "i": 81,
+   "text": "몰래",
+   "start": 35.513,
+   "end": 35.754,
+   "sentence": 23
+  },
+  {
+   "i": 82,
+   "text": "먹었대.",
+   "start": 35.754,
+   "end": 36.637,
+   "sentence": 23
+  },
+  {
+   "i": 83,
+   "text": "난",
+   "start": 36.637,
+   "end": 36.799,
+   "sentence": 24
+  },
+  {
+   "i": 84,
+   "text": "맥주파.",
+   "start": 36.799,
+   "end": 37.665,
+   "sentence": 24
+  },
+  {
+   "i": 85,
+   "text": "입에서",
+   "start": 37.665,
+   "end": 38.048,
+   "sentence": 25
+  },
+  {
+   "i": 86,
+   "text": "부글부글",
+   "start": 38.048,
+   "end": 38.591,
+   "sentence": 25
+  },
+  {
+   "i": 87,
+   "text": "끓는",
+   "start": 38.591,
+   "end": 38.873,
+   "sentence": 25
+  },
+  {
+   "i": 88,
+   "text": "느낌.",
+   "start": 38.873,
+   "end": 39.678,
+   "sentence": 25
+  },
+  {
+   "i": 89,
+   "text": "짠.",
+   "start": 39.678,
+   "end": 40.373,
+   "sentence": 26
+  },
+  {
+   "i": 90,
+   "text": "취한",
+   "start": 40.373,
+   "end": 40.679,
+   "sentence": 27
+  },
+  {
+   "i": 91,
+   "text": "척,",
+   "start": 40.679,
+   "end": 40.863,
+   "sentence": 27
+  },
+  {
+   "i": 92,
+   "text": "한",
+   "start": 40.863,
+   "end": 41.026,
+   "sentence": 27
+  },
+  {
+   "i": 93,
+   "text": "번만.",
+   "start": 41.026,
+   "end": 41.775,
+   "sentence": 27
+  },
+  {
+   "i": 94,
+   "text": "사탕이야,",
+   "start": 41.775,
+   "end": 42.283,
+   "sentence": 28
+  },
+  {
+   "i": 95,
+   "text": "사탕.",
+   "start": 42.283,
+   "end": 43.069,
+   "sentence": 28
+  },
+  {
+   "i": 96,
+   "text": "거품은",
+   "start": 43.069,
+   "end": 43.492,
+   "sentence": 29
+  },
+  {
+   "i": 97,
+   "text": "살살",
+   "start": 43.492,
+   "end": 43.834,
+   "sentence": 29
+  },
+  {
+   "i": 98,
+   "text": "먹어.",
+   "start": 43.834,
+   "end": 44.598,
+   "sentence": 29
+  },
+  {
+   "i": 99,
+   "text": "사",
+   "start": 44.598,
+   "end": 44.76,
+   "sentence": 30
+  },
+  {
+   "i": 100,
+   "text": "교시,",
+   "start": 44.76,
+   "end": 45.085,
+   "sentence": 30
+  },
+  {
+   "i": 101,
+   "text": "차카니.",
+   "start": 45.085,
+   "end": 45.769,
+   "sentence": 30
+  },
+  {
+   "i": 102,
+   "text": "짭조름한데,",
+   "start": 45.769,
+   "end": 46.452,
+   "sentence": 31
+  },
+  {
+   "i": 103,
+   "text": "빨간",
+   "start": 46.452,
+   "end": 46.774,
+   "sentence": 31
+  },
+  {
+   "i": 104,
+   "text": "가루가",
+   "start": 46.774,
+   "end": 47.075,
+   "sentence": 31
+  },
+  {
+   "i": 105,
+   "text": "매콤해.",
+   "start": 47.075,
+   "end": 48.019,
+   "sentence": 31
+  },
+  {
+   "i": 106,
+   "text": "이건",
+   "start": 48.019,
+   "end": 48.263,
+   "sentence": 32
+  },
+  {
+   "i": 107,
+   "text": "손가락까지가",
+   "start": 48.263,
+   "end": 49.035,
+   "sentence": 32
+  },
+  {
+   "i": 108,
+   "text": "과자야.",
+   "start": 49.035,
+   "end": 49.844,
+   "sentence": 32
+  },
+  {
+   "i": 109,
+   "text": "하나도",
+   "start": 49.844,
+   "end": 50.17,
+   "sentence": 33
+  },
+  {
+   "i": 110,
+   "text": "버리지",
+   "start": 50.17,
+   "end": 50.517,
+   "sentence": 33
+  },
+  {
+   "i": 111,
+   "text": "마.",
+   "start": 50.517,
+   "end": 51.127,
+   "sentence": 33
+  },
+  {
+   "i": 112,
+   "text": "어?",
+   "start": 51.127,
+   "end": 51.766,
+   "sentence": 34
+  },
+  {
+   "i": 113,
+   "text": "네",
+   "start": 51.766,
+   "end": 51.951,
+   "sentence": 35
+  },
+  {
+   "i": 114,
+   "text": "거",
+   "start": 51.951,
+   "end": 51.992,
+   "sentence": 35
+  },
+  {
+   "i": 115,
+   "text": "어디",
+   "start": 51.992,
+   "end": 52.157,
+   "sentence": 35
+  },
+  {
+   "i": 116,
+   "text": "갔어?",
+   "start": 52.157,
+   "end": 52.95,
+   "sentence": 35
+  },
+  {
+   "i": 117,
+   "text": "설명하다가",
+   "start": 52.95,
+   "end": 53.497,
+   "sentence": 36
+  },
+  {
+   "i": 118,
+   "text": "내가",
+   "start": 53.497,
+   "end": 53.7,
+   "sentence": 36
+  },
+  {
+   "i": 119,
+   "text": "다",
+   "start": 53.7,
+   "end": 53.882,
+   "sentence": 36
+  },
+  {
+   "i": 120,
+   "text": "먹었네.",
+   "start": 53.882,
+   "end": 54.791,
+   "sentence": 36
+  },
+  {
+   "i": 121,
+   "text": "마지막",
+   "start": 54.791,
+   "end": 55.16,
+   "sentence": 37
+  },
+  {
+   "i": 122,
+   "text": "쫀디기.",
+   "start": 55.16,
+   "end": 55.931,
+   "sentence": 37
+  },
+  {
+   "i": 123,
+   "text": "결대로,",
+   "start": 55.931,
+   "end": 56.333,
+   "sentence": 38
+  },
+  {
+   "i": 124,
+   "text": "반.",
+   "start": 56.333,
+   "end": 56.958,
+   "sentence": 38
+  },
+  {
+   "i": 125,
+   "text": "숙제야.",
+   "start": 56.958,
+   "end": 57.775,
+   "sentence": 39
+  },
+  {
+   "i": 126,
+   "text": "에어프라이어",
+   "start": 57.775,
+   "end": 58.4,
+   "sentence": 40
+  },
+  {
+   "i": 127,
+   "text": "백팔십",
+   "start": 58.4,
+   "end": 58.904,
+   "sentence": 40
+  },
+  {
+   "i": 128,
+   "text": "도",
+   "start": 58.904,
+   "end": 59.025,
+   "sentence": 40
+  },
+  {
+   "i": 129,
+   "text": "예열하고,",
+   "start": 59.025,
+   "end": 59.509,
+   "sentence": 40
+  },
+  {
+   "i": 130,
+   "text": "이삼",
+   "start": 59.509,
+   "end": 59.852,
+   "sentence": 40
+  },
+  {
+   "i": 131,
+   "text": "분.",
+   "start": 59.852,
+   "end": 60.416,
+   "sentence": 40
+  },
+  {
+   "i": 132,
+   "text": "복습해.",
+   "start": 60.416,
+   "end": 60.814,
+   "sentence": 41
+  }
+ ]
+}

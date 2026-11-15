@@ -28,6 +28,17 @@ def resample(x, sr_from, sr_to):
     return np.interp(np.linspace(0, len(x) - 1, n), np.arange(len(x)), x).astype(np.float32)
 
 
+def trim_silence(x, sr, pad=0.06, rel=0.02):
+    """Cut leading/trailing near-silence (the TTS pads its output), keep a small pad."""
+    thr = rel * float(np.max(np.abs(x))) if len(x) else 0.0
+    idx = np.flatnonzero(np.abs(x) > thr)
+    if len(idx) == 0:
+        return x
+    a = max(idx[0] - int(pad * sr), 0)
+    b = min(idx[-1] + int(pad * sr), len(x))
+    return x[a:b]
+
+
 def fill_words(words, t0, t1):
     """words: list of dict(text, start|None, end|None) in sentence-local seconds.
     Interpolate untimed words, make times monotonic, close gaps, no zero-length."""
@@ -101,7 +112,7 @@ def main():
     pieces, words_out, cursor = [], [], 0  # cursor in samples
     for si, text in enumerate(sentences):
         wav, _ = tts.synthesize(text, voice_style=style, lang="ko", speed=a.speed)
-        wav = np.asarray(wav, dtype=np.float32).reshape(-1)
+        wav = trim_silence(np.asarray(wav, dtype=np.float32).reshape(-1), sr)
         dur = len(wav) / sr
         off = cursor / sr
         res = whisperx.align(
