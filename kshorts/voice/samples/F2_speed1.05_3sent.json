@@ -1,0 +1,261 @@
+{
+ "version": 1,
+ "voice": "supertonic-3:F2",
+ "speed": 1.05,
+ "sample_rate": 44100,
+ "duration": 18.224,
+ "words": [
+  {
+   "i": 0,
+   "text": "야,",
+   "start": 0.682,
+   "end": 1.203,
+   "sentence": 0
+  },
+  {
+   "i": 1,
+   "text": "너",
+   "start": 1.203,
+   "end": 1.323,
+   "sentence": 0
+  },
+  {
+   "i": 2,
+   "text": "이거",
+   "start": 1.323,
+   "end": 1.584,
+   "sentence": 0
+  },
+  {
+   "i": 3,
+   "text": "기억나?",
+   "start": 1.584,
+   "end": 2.546,
+   "sentence": 0
+  },
+  {
+   "i": 4,
+   "text": "학교",
+   "start": 2.546,
+   "end": 2.887,
+   "sentence": 0
+  },
+  {
+   "i": 5,
+   "text": "끝나고",
+   "start": 2.887,
+   "end": 3.408,
+   "sentence": 0
+  },
+  {
+   "i": 6,
+   "text": "문방구",
+   "start": 3.408,
+   "end": 3.789,
+   "sentence": 0
+  },
+  {
+   "i": 7,
+   "text": "앞에서",
+   "start": 3.789,
+   "end": 4.15,
+   "sentence": 0
+  },
+  {
+   "i": 8,
+   "text": "백",
+   "start": 4.15,
+   "end": 4.29,
+   "sentence": 0
+  },
+  {
+   "i": 9,
+   "text": "원짜리",
+   "start": 4.29,
+   "end": 4.731,
+   "sentence": 0
+  },
+  {
+   "i": 10,
+   "text": "하나",
+   "start": 4.731,
+   "end": 5.012,
+   "sentence": 0
+  },
+  {
+   "i": 11,
+   "text": "들고",
+   "start": 5.012,
+   "end": 5.353,
+   "sentence": 0
+  },
+  {
+   "i": 12,
+   "text": "뭐",
+   "start": 5.353,
+   "end": 5.894,
+   "sentence": 0
+  },
+  {
+   "i": 13,
+   "text": "살지",
+   "start": 5.894,
+   "end": 6.315,
+   "sentence": 0
+  },
+  {
+   "i": 14,
+   "text": "십",
+   "start": 6.315,
+   "end": 6.496,
+   "sentence": 0
+  },
+  {
+   "i": 15,
+   "text": "분씩",
+   "start": 6.496,
+   "end": 6.857,
+   "sentence": 0
+  },
+  {
+   "i": 16,
+   "text": "고민했잖아.",
+   "start": 6.857,
+   "end": 8.902,
+   "sentence": 0
+  },
+  {
+   "i": 17,
+   "text": "그때는",
+   "start": 8.902,
+   "end": 9.324,
+   "sentence": 1
+  },
+  {
+   "i": 18,
+   "text": "쫀드기",
+   "start": 9.324,
+   "end": 9.746,
+   "sentence": 1
+  },
+  {
+   "i": 19,
+   "text": "하나만",
+   "start": 9.746,
+   "end": 10.128,
+   "sentence": 1
+  },
+  {
+   "i": 20,
+   "text": "사도",
+   "start": 10.128,
+   "end": 10.409,
+   "sentence": 1
+  },
+  {
+   "i": 21,
+   "text": "세상을",
+   "start": 10.409,
+   "end": 10.871,
+   "sentence": 1
+  },
+  {
+   "i": 22,
+   "text": "다",
+   "start": 10.871,
+   "end": 11.032,
+   "sentence": 1
+  },
+  {
+   "i": 23,
+   "text": "가진",
+   "start": 11.032,
+   "end": 11.353,
+   "sentence": 1
+  },
+  {
+   "i": 24,
+   "text": "기분이었지.",
+   "start": 11.353,
+   "end": 13.602,
+   "sentence": 1
+  },
+  {
+   "i": 25,
+   "text": "근데",
+   "start": 13.602,
+   "end": 13.843,
+   "sentence": 2
+  },
+  {
+   "i": 26,
+   "text": "아저씨가",
+   "start": 13.843,
+   "end": 14.305,
+   "sentence": 2
+  },
+  {
+   "i": 27,
+   "text": "자꾸",
+   "start": 14.305,
+   "end": 14.667,
+   "sentence": 2
+  },
+  {
+   "i": 28,
+   "text": "빨리",
+   "start": 14.667,
+   "end": 15.029,
+   "sentence": 2
+  },
+  {
+   "i": 29,
+   "text": "고르라고",
+   "start": 15.029,
+   "end": 15.491,
+   "sentence": 2
+  },
+  {
+   "i": 30,
+   "text": "해서",
+   "start": 15.491,
+   "end": 15.893,
+   "sentence": 2
+  },
+  {
+   "i": 31,
+   "text": "은근히",
+   "start": 15.893,
+   "end": 16.315,
+   "sentence": 2
+  },
+  {
+   "i": 32,
+   "text": "눈치",
+   "start": 16.315,
+   "end": 16.636,
+   "sentence": 2
+  },
+  {
+   "i": 33,
+   "text": "보였던",
+   "start": 16.636,
+   "end": 17.058,
+   "sentence": 2
+  },
+  {
+   "i": 34,
+   "text": "거",
+   "start": 17.058,
+   "end": 17.199,
+   "sentence": 2
+  },
+  {
+   "i": 35,
+   "text": "알지?",
+   "start": 17.199,
+   "end": 18.183,
+   "sentence": 2
+  }
+ ]
+}
